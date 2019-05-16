@@ -1,2 +1,2 @@
 ### instructions
-please see our [wiki page] (https://github.com/evolgeniusteam/nucleotideSkews/wiki) (you can also go there by clicking the ":book: Wiki" button on the right panel) for details on reproducing our results using the scripts and data files provided here.
+please see our [wiki page] (https://github.com/evolgeniusteam/nucleotideSkews/wiki) (you can also go there by clicking the ":book: Wiki" button on the right panel) for details on reproducing the results of our manuscript ["Energy efficiency trade-offs drive nucleotide usage in transcribed regions"](https://www.nature.com/articles/ncomms11334) published in Nature communications 2016, including statistical tests and figures / supplementary figures. 
